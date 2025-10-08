@@ -34,7 +34,7 @@ This project analyzes bicycle safety and infrastructure in Cary, North Carolina,
 - **Interactive Safety Score Map:**  
   Color-coded bike route segments show safety scores (green = safer, yellow/orange = moderate concern).  
   Additional layers for parks (green markers), eco-counters (purple markers), and community POIs (blue markers).
-
+  Also check out cras_crash_risk map overlayed on bike route .
 ---
 
 ##  Main Findings & Insights
